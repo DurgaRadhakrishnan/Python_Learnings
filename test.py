@@ -1,0 +1,15 @@
+print ("Mutliplication table using formatted {f}Strings")
+num =2
+print(f"2 * 1 = {num* 1}")
+print(f"2 * 2 = {num* 2}")
+print(f"2 * 3 = {num* 3}")
+print(f"2 * 4 = {num* 4}")
+print(f"2 * 5 = {num* 5}")
+print(f"2 * 6 = {num* 6}")
+print(f"2 * 7 = {num* 7}")
+print(f"2 * 8 = {num* 8}")
+print(f"2 * 9 = {num* 9}")
+print(f"2 * 10 = {num* 10}")
+print(f"2 * 11 = {num* 11}")
+print(f"2 * 12 = {num* 12}")
+
