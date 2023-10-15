@@ -15,7 +15,16 @@ area = float(3.14*r*r)
 print("Area of the circle is:",area)
 
 
-# Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
+# Create a program that takes two numbers as input and prints whether the first number is
+# greater than, less than, or equal to the second number.
+num1 =int(input("Enter num1 value is = "))
+num2 =int(input("Enter  num2 value is = "))
+result = num1>num2
+print("The output is",result)
+result = num1<num2
+print("The output is",result)
+result = num1==num2
+print("The output is",result)
 
 # Use the ternary operator to find the maximum of three numbers entered by the user.
 # Develop a Python script that calculates the square and cube of a given number.
